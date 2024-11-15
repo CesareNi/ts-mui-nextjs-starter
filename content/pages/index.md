@@ -5,10 +5,12 @@ sections:
   - type: HeroSection
     title: Lettori del Libro di Urantia
     subtitle: Accoglienza dei Lettori Italiani
-    text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+    text: >+
+      ## Questo è uno spazio dedicato unicamente ai Lettori  Italiani del Libro
+      di Urantia, per fornire a loro, una guida ma soprattutto per fare in modo
+      di accrescere questa famiglia dei figli del Padre e quindi di fratelli e
+      sorelle in Dio.
+
     actions:
       - type: Button
         label: Start Building
