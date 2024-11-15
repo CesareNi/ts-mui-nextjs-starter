@@ -26,7 +26,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/Cascata3.jpg
+      url: /images/Urantia universe.png
       altText: Hero section image
   - type: CardsSection
     title: Cards Section Component
