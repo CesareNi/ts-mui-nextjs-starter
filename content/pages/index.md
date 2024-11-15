@@ -26,7 +26,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/Urantia universe.png
+      url: /images/Il tutto.png
       altText: Hero section image
   - type: CardsSection
     title: Cards Section Component
