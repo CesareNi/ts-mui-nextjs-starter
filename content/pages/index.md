@@ -26,7 +26,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/favicon.svg
+      url: /images/Cascata3.jpg
       altText: Hero section image
   - type: CardsSection
     title: Cards Section Component
