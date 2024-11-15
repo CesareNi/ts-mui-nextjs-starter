@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: Lettori del Libro di Urantia
-    subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
+    subtitle: Accoglienza dei Lettori Italiani
     text: >
       This is the HeroSection component. You can visually edit this component &
       add more sections while developing locally. [Learn
