@@ -14,7 +14,7 @@ sections:
     actions:
       - type: Button
         label: Contatti
-        url: 'https://docs.netlify.com/visual-editor/get-started/'
+        url: cirosare@gmail.com
         size: large
         variant: contained
         color: primary
