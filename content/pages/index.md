@@ -235,7 +235,7 @@ sections:
           altText: Third item image
         actions:
           - type: Button
-            label: Learn more
+            label: Leggi di più
             url: La scienza si sforza vanamente di creare
             size: medium
             variant: text
