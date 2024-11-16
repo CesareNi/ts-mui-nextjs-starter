@@ -97,7 +97,7 @@ sections:
       altText: Hero section image
   - type: HeroSection
     title: 'La volontà di Dio prevale, sempre'
-    subtitle: The section subtitle
+    subtitle: Il tempo/spazio è una proiezione dell'Assoluto
     text: >
       La volontà di Dio, si realizza sempre perché l'eternità rappresenta la
       vera realtà attraverso la quale il Padre emana e/o proietta lo
