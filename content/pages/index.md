@@ -73,6 +73,12 @@ sections:
         size: large
         variant: contained
         color: primary
+      - type: Button
+        label: 'Contatti WhatsApp: 3755570815'
+        url: /
+        size: medium
+        variant: text
+        color: primary
     image:
       type: Image
       url: /images/frutti2.jpg
