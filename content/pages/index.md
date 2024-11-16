@@ -236,7 +236,8 @@ sections:
         actions:
           - type: Button
             label: Leggi di più
-            url: La scienza si sforza vanamente di creare
+            url: >-
+              https://www.urantia.org/it/il-libro-di-urantia/fascicolo-102-i-fondamenti-della-fede-religiosa?term=%22La%20scienza%20si%20sforza%20vanamente%20di%20creare%22#U102_3_8
             size: medium
             variant: text
             color: primary
