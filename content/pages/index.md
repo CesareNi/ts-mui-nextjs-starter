@@ -30,7 +30,7 @@ sections:
       altText: Hero section image
   - type: HeroSection
     title: >-
-      TVenite a me, voi tutti che siete affaticati e oppressi, e io vi darò
+      Venite a me, voi tutti che siete affaticati e oppressi, e io vi darò
       riposo
     subtitle: BENVENUTI/E
     text: >
