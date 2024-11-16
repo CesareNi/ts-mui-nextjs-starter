@@ -58,7 +58,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
+      url: /images/Apostoli.jpg
       altText: Hero section image
   - type: HeroSection
     title: Annunciate Gesù il vivente
