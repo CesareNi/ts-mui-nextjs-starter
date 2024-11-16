@@ -152,7 +152,7 @@ sections:
     subtitle: ''
     items: []
   - type: CardsSection
-    title: Cards Section Title
+    title: La Fraternità nel Libro di Urantia
     subtitle: The section subtitle
     items:
       - type: Card
