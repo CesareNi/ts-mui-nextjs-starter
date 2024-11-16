@@ -24,8 +24,6 @@ sections:
       altText: Hero section image
   - type: CardsSection
     title: ''
-    subtitle: >-
-      Leggi la nostra
-      storiaòdklfòalskdfòalskdfjòalksdfjòakdjffòalskdfjòaksdjffòalksdjffòalksdjffòaksdjffòalksdjffòalksdjfòalskdfjfòalskdjffòalskdfjfòalskdfjfòalskdfjfòaslkdfjfòaslkdfjfjòalskdfjfòalsdkfjfòa
+    subtitle: Leggi la nostra
     items: []
 ---
