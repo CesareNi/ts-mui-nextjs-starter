@@ -68,7 +68,7 @@ sections:
       possiamo essere sicuri di fare la volontà del Padre
     actions:
       - type: Button
-        label: Start Building
+        label: CONTATTI
         url: 'https://docs.netlify.com/visual-editor/get-started/'
         size: large
         variant: contained
