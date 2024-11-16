@@ -29,7 +29,9 @@ sections:
       url: /images/Il tutto.png
       altText: Hero section image
   - type: HeroSection
-    title: This Is A Big Hero Headline
+    title: >-
+      TVenite a me, voi tutti che siete affaticati e oppressi, e io vi darò
+      riposo
     subtitle: BENVENUTI/E
     text: >
       Dal 1955, anno in cui venne pubblicata la prima edizione del LIBRO DI
