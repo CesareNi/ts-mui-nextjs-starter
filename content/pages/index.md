@@ -90,13 +90,7 @@ sections:
       rappresentata dalla sovranità di nostro Padre, al quale solo a lui
       dovrebbe essere reso il culto. Quando la volontà del Padre è la legge
       dell'uomo, soltanto allora tutto è possibile.
-    actions:
-      - type: Button
-        label: WhatsApp
-        url: '3755570815'
-        size: medium
-        variant: text
-        color: primary
+    actions: []
     image:
       type: Image
       url: /images/Cornice testo.png
