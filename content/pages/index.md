@@ -35,7 +35,7 @@ sections:
       dell'uomo, soltanto allora tutto è possibile.
     actions:
       - type: Button
-        label: CONTATTI
+        label: EMAIL
         url: cirosare@gmail.com
         size: large
         variant: contained
