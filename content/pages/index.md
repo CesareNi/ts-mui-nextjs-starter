@@ -120,7 +120,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
+      url: /images/Le azioni di Dio.png
       altText: Hero section image
   - type: CardsSection
     title: ''
