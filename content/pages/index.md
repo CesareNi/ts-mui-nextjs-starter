@@ -31,19 +31,6 @@ sections:
     subtitle: ''
     items:
       - type: Card
-        title: ''
-        text: ''
-        image:
-          type: Image
-          altText: First item image
-        actions:
-          - type: Button
-            label: Learn more
-            url: /
-            size: medium
-            variant: text
-            color: primary
-      - type: Card
         title: Second Item Title
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
