@@ -70,7 +70,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
+      url: /images/Gesù parla.jpg
       altText: Hero section image
   - type: CardsSection
     title: ''
