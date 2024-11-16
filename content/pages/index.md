@@ -192,7 +192,7 @@ sections:
           altText: First item image
         actions:
           - type: Button
-            label: Learn more
+            label: Leggi di più
             url: >-
               https://www.urantia.org/it/il-libro-di-urantia/fascicolo-155-in-fuga-attraverso-la-galilea-del-nord?term=%22L%E2%80%99unit%C3%A0%20umana%20e%20la%20fratellanza%20dei%20mortali%22#U155_6_8
             size: medium
