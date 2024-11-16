@@ -225,7 +225,7 @@ sections:
           libero arbitrio, tale decisione costituisce un’esperienza religiosa.
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/Base.jpg
           altText: Third item image
         actions:
           - type: Button
