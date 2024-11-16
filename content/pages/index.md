@@ -24,7 +24,7 @@ sections:
       altText: Hero section image
   - type: HeroSection
     title: Annunciate Gesù il vivente
-    subtitle: The section subtitle
+    subtitle: Gesù proclama la sovranità di Dio il Padre di tutti
     text: >
       La figura di Gesù deve essere rivalutata e presentata per quello che è
       stata e che è. Gesù venne sulla Terra per annunciare il Regno di Dio e la
