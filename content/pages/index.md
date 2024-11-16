@@ -230,7 +230,7 @@ sections:
           altText: Second item image
         actions:
           - type: Button
-            label: Learn more
+            label: Leggi di più
             url: >-
               https://www.urantia.org/it/il-libro-di-urantia/fascicolo-193-apparizioni-finali-ed-ascensione?term=%22L%E2%80%99accettazione%20della%20dottrina%20della%20paternit%C3%A0%22#U193_1_2
             size: medium
