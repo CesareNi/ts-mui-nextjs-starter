@@ -43,13 +43,7 @@ sections:
       vengo a conoscenza, dopo qualche tempo, di una coordinazione nazionale
       italiana e inizio a partecipare a qualche conferenza di carattere
       regionale (Rimini, Lago di Garda).
-    actions:
-      - type: Button
-        label: Read the Docs
-        url: 'https://docs.netlify.com/visual-editor/overview/'
-        size: large
-        variant: outlined
-        color: primary
+    actions: []
     image:
       type: Image
       url: /images/Apostoli.jpg
