@@ -25,11 +25,14 @@ sections:
   - type: HeroSection
     title: Annunciate Gesù il vivente
     subtitle: The section subtitle
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      itae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      La figura di Gesù deve essere rivalutata e presentata per quello che è
+      stata e che è. Gesù venne sulla Terra per annunciare il Regno di Dio e la
+      figura di Dio, Padre di tutti noi. Egli tentò di presentare la vera
+      religione che sta al di sopra di ogni religione umana e che è
+      rappresentata dalla sovranità di nostro Padre, al quale solo a lui
+      dovrebbe essere reso il culto. Quando la volontà del Padre è la legge
+      dell'uomo, soltanto allora tutto è possibile.
     actions:
       - type: Button
         label: Start Building
