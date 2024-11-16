@@ -127,13 +127,7 @@ sections:
       negli universi perché l'Assoluto ha già oltrepassato la barriera del
       tempo/spazio ed ha indagato ogni possibile risultato finale e l'ha
       considerato perfetto.
-    actions:
-      - type: Button
-        label: Whatsapp
-        url: '3755570815'
-        size: large
-        variant: outlined
-        color: primary
+    actions: []
     image:
       type: Image
       url: /images/Le azioni di Dio.png
