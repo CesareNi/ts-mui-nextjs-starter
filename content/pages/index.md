@@ -125,11 +125,7 @@ sections:
   - type: HeroSection
     title: This Is A Big Hero Headline
     subtitle: The section subtitle
-    text: >
-      Questo è il logo che più ci rappresenta, perché la Fratellanza è la
-      realizzazione massima che prima o poi accade in ogni pianeta, è la
-      realizzazione fisica, mentale e spirituale di tutto ciò che possiamo mai
-      immaginare. Ogni anima che si armonizz 
+    text: ''
     actions:
       - type: Button
         label: Start Building
