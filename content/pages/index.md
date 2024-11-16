@@ -45,7 +45,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/Fratellanza.jpg
+      url: /images/Cornice testo.png
       altText: Hero section image
   - type: CardsSection
     title: ''
