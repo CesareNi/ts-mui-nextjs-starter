@@ -62,7 +62,7 @@ sections:
       altText: Hero section image
   - type: HeroSection
     title: Il Libro di Urantia
-    subtitle: The section subtitle
+    subtitle: La V Rivelazione Epocale
     text: >
       Nella sostanza il Libro di Urantia, noto anche come V Rivelazione Epocale,
       è una rivelazione di varie personalità divine che ci descrivono
