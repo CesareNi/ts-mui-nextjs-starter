@@ -22,10 +22,6 @@ sections:
       type: Image
       url: /images/Il tutto.png
       altText: Hero section image
-  - type: CardsSection
-    title: ''
-    subtitle: Leggi la nostra storia
-    items: []
   - type: HeroSection
     title: This Is A Big Hero Headline
     subtitle: The section subtitle
