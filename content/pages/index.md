@@ -50,9 +50,7 @@ sections:
   - type: HeroSection
     title: Fate appello
     subtitle: allo Spirito Divino che risiede nella mente degli uomini
-    text: >
-      Nel parlare ai nostri simili dovremmo tenere un atteggiamento simile a
-      quello che ci disse Gesù:
+    text: "Nel parlare ai nostri simili dovremmo tenere un atteggiamento simile a quello che ci disse Gesù: Venite a me, voi tutti, che siete affaticati e oppressi, e io vi ristorerò.\_**29**\_Prendete il mio giogo sopra di voi e imparate da me, che sono mite e umile di cuore,\_*e troverete ristoro*\_per le vostre anime.\_Il mio giogo infatti è dolce e il mio carico leggero». (Mt 11:28)\n\n"
     actions:
       - type: Button
         label: Start Building
