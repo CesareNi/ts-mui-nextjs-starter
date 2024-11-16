@@ -124,13 +124,7 @@ sections:
       altText: Hero section image
   - type: HeroSection
     title: La Fratellanza Planetaria
-    subtitle: >-
-      Questo è il logo che più ci rappresenta, perché la Fratellanza è la
-      realizzazione massima che prima o poi accade in ogni pianeta, è la
-      realizzazione fisica, mentale e spirituale di tutto ciò che possiamo mai
-      immaginare. Ogni anima che si armonizza pur rimanendo sempre individuale,
-      realizza la perfezione planetaria, immagine reale del mondo
-      soprannaturale.
+    subtitle: ''
     text: >
       Questo è il logo che più ci rappresenta, perché la Fratellanza è la
       realizzazione massima che prima o poi accade in ogni pianeta, è la
