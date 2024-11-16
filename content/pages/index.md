@@ -7,7 +7,7 @@ sections:
     subtitle: Accoglienza dei Lettori Italiani
     text: >+
       <div style="text-align: left">Questo è uno spazio dedicato unicamente ai
-      Lettori  Italiani del Libro di Urantia, per fornire a loro, una guida ma
+      Lettori  Italiani del Libro di Urantia, per fornire loro una guida, ma
       soprattutto per fare in modo di accrescere questa famiglia dei figli del
       Padre e quindi di fratelli e sorelle in Dio.</div>
 
