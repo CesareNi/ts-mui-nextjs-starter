@@ -23,7 +23,7 @@ sections:
       url: /images/Il tutto.png
       altText: Hero section image
   - type: CardsSection
-    title: Cards Section Component
+    title: Leggi la nostra storia
     subtitle: Section subtitle here
     items: []
 ---
