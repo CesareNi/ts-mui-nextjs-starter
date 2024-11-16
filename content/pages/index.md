@@ -55,6 +55,12 @@ sections:
         size: large
         variant: contained
         color: primary
+      - type: Button
+        label: WhatsApop
+        url: '3755570815'
+        size: medium
+        variant: text
+        color: primary
     image:
       type: Image
       url: /images/Per annunciare.jpg
