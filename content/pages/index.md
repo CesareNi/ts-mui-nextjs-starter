@@ -233,7 +233,7 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: Third Item Title
+        title: Esperienza religiosa
         text: >
           (1131.7) 103:2.8 Quando un essere morale sceglie di essere altruista
           di fronte allo stimolo di essere egoista, fa la sua prima esperienza
