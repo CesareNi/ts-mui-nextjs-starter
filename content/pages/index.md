@@ -29,7 +29,7 @@ sections:
       url: /images/Il tutto.png
       altText: Hero section image
   - type: HeroSection
-    title: Seguimi
+    title: '"Seguimi" '
     subtitle: BENVENUTI/E
     text: >
       Dal 1955, anno in cui venne pubblicata la prima edizione del LIBRO DI
