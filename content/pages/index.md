@@ -30,7 +30,7 @@ sections:
       altText: Hero section image
   - type: HeroSection
     title: This Is A Big Hero Headline
-    subtitle: The section subtitle
+    subtitle: BENVENUTI/E
     text: >
       Dal 1955, anno in cui venne pubblicata la prima edizione del LIBRO DI
       URANTIA, in lingua inglese, passano più di 50 anni per la pubblicazione
