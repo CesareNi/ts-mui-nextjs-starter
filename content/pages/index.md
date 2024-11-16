@@ -98,7 +98,7 @@ sections:
       url: /images/frutti2.jpg
       altText: Hero section image
   - type: HeroSection
-    title: This Is A Big Hero Headline
+    title: 'La volontà di Dio prevale, sempre'
     subtitle: The section subtitle
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
