@@ -97,7 +97,7 @@ sections:
         color: primary
       - type: Button
         label: Contatto Whatsapp
-        url: 'https://docs.netlify.com/visual-editor/overview/'
+        url: '3755570815'
         size: large
         variant: outlined
         color: primary
