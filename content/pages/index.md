@@ -19,7 +19,7 @@ sections:
         variant: contained
         color: primary
       - type: Button
-        label: Leggi la nostra storia
+        label: ''
         url: 'https://docs.netlify.com/visual-editor/overview/'
         size: large
         variant: outlined
