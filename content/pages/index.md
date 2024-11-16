@@ -13,7 +13,7 @@ sections:
 
     actions:
       - type: Button
-        label: 'eMail: cirosare@gmail.com'
+        label: cirosare@gmail.com
         url: ''
         size: large
         variant: contained
