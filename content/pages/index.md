@@ -27,7 +27,7 @@ sections:
     subtitle: Leggi la nostra storia
     items: []
   - type: CardsSection
-    title: Cards Section Title
+    title: ''
     subtitle: The section subtitle
     items:
       - type: Card
