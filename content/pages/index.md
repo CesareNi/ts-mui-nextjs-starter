@@ -145,7 +145,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/pexels-james-wheeler-1519088 (1).jpg
+      url: /images/pexels-eyüp-belen-1428607 (1).jpg
       altText: Hero section image
   - type: CardsSection
     title: ''
