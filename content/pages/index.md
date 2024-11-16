@@ -75,11 +75,10 @@ sections:
   - type: HeroSection
     title: Lo Spirito Interiore
     subtitle: Collegamento con l'Assoluto
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      itae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Lo Spirito Interiore è il collegamento del finito con l'infinito. Abbiamo
+      uno Spirito Frammentato del Padre in noi, e se seguiamo le sue direttive
+      possiamo essere sicuri di fare la volontà del Padre
     actions:
       - type: Button
         label: Start Building
