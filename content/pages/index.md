@@ -185,7 +185,7 @@ sections:
           religione dell’esperienza spirituale personale.
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/Prati e sole.jpg
           altText: First item image
         actions:
           - type: Button
