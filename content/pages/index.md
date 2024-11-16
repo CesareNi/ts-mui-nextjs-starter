@@ -40,6 +40,12 @@ sections:
         size: large
         variant: contained
         color: primary
+      - type: Button
+        label: WhatsApp
+        url: '3755570815'
+        size: medium
+        variant: text
+        color: primary
     image:
       type: Image
       url: /images/Cornice testo.png
