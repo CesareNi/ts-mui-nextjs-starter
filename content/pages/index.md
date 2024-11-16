@@ -236,7 +236,7 @@ sections:
         actions:
           - type: Button
             label: Learn more
-            url: /
+            url: La scienza si sforza vanamente di creare
             size: medium
             variant: text
             color: primary
