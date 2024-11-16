@@ -61,7 +61,7 @@ sections:
       url: /images/Apostoli.jpg
       altText: Hero section image
   - type: HeroSection
-    title: This Is A Big Hero Headline
+    title: Il Libro di Urantia
     subtitle: The section subtitle
     text: >
       Nella sostanza il Libro di Urantia, noto anche come V Rivelazione Epocale,
