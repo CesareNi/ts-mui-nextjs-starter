@@ -24,7 +24,7 @@ sections:
       altText: Hero section image
   - type: CardsSection
     title: ''
-    subtitle: Leggi la nostra
+    subtitle: Leggi la nostra storia
     items: []
   - type: CardsSection
     title: Cards Section Title
