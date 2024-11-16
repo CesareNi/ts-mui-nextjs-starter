@@ -31,7 +31,7 @@ sections:
     subtitle: ''
     items:
       - type: Card
-        title: First Item Title
+        title: ''
         text: ''
         image:
           type: Image
