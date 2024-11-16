@@ -31,7 +31,20 @@ sections:
   - type: HeroSection
     title: This Is A Big Hero Headline
     subtitle: The section subtitle
-    text: "Cronistoria del nostro gruppo\n\nSCOPERTA DEL LIBRO DI URANTIA NEL 2006 CIRCA\n\n\_1.\_Contatti con la Fondazione Urantia\n\n2.\_Distribuzione in 15 biblioteche italiane di 15\_Libri\_di Urantia\n\n3.\_Traduzione della pagina americana di wikipendia del Libro di Urantia\n\n4.\_Incontri con altri lettori e corsi Ubis insieme ai fratelli francesi e spagnoli\n\n\_REALIZZAZIONE della Fraternità del Padre\_come unico impegno concreto venuto alla luce dagli studi del Libro di Urantia e dei rivelatori\n\n\_GENNAIO 2019 - Incontro con il fratello Yehasabi \n\nYehasabi annuncia tramite email che il Regno di Dio è alla portata di mano.\n\n\n\nNASCITA DELLA PAGINA FB FRATERNITA’ DEL PADRE\_INSIEME AD ALTRI GRUPPI:\n\nTra i quali\n\nPagina del Libro di Urantia\n\nGruppo Comitato di Accoglienza VI Rivelazione\n\nPagina Fraternità del Padre\n\nGruppo Fratellanza di Luce\n\nPagina Fratellanza Planetaria\n\nGruppo di studio Libro di Urantia\n\nCreazione del sito web Fratellana di Luce\n\n\n\nIl 10 maggio nasce il Canale Youtube Fraternity Espirituale International come canale di divulgazione della storia e degli approfondimenti tematici tratti dal Libro.\n\n\_\n\nPaternità di Dio\n\nFratellanza Planetaria, come riflesso della Fratellanza Universale creata dall’amore del Padre per tutti i suoi figli di tutti gli universi.\n\nIntegrazione\_interconfessionale di tutte le religioni\n\nPressione spirituale dall’alto\_come impegno principale per alzare le coscienze planetarie attraverso la maggiore consapevolezza spirituale\n\nLa\_Fraternità del Padre come\_nuovo simbolo\_e come segno della vita religiosa e dell’esperienza spirituale \n"
+    text: >
+      BENVENUTI/E
+
+      Dal 1955, anno in cui venne pubblicata la prima edizione del LIBRO DI
+      URANTIA, in lingua inglese, passano più di 50 anni per la pubblicazione
+      dell'edizione del Libro in lingua italiana ad opera principalmente di MEMO
+      ZAGO di Verona. Qualche anno più tardi scopro l'edizione online del Libro,
+      inizio a leggerla e ad approfondirla. In tutto il mondo, dopo il 1955,
+      nascono dei gruppi di studio di Lettori del Libro che si riuniscono con
+      cadenza settimana o mensile e di tanto in tanto si ritrovano in occasioni
+      di Conferenze a carattere nazionale, internazionale o mondiale. Anche io
+      vengo a conoscenza, dopo qualche tempo, di una coordinazione nazionale
+      italiana e inizio a partecipare a qualche conferenza di carattere
+      regionale (Rimini, Lago di Garda). 
     actions:
       - type: Button
         label: Start Building
