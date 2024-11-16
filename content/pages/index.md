@@ -49,7 +49,7 @@ sections:
       altText: Hero section image
   - type: HeroSection
     title: Fate appello
-    subtitle: The section subtitle
+    subtitle: allo Spirito Divino che risiede nella mente degli uomini
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
