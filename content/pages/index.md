@@ -153,7 +153,7 @@ sections:
     items: []
   - type: CardsSection
     title: La Fraternità nel Libro di Urantia
-    subtitle: The section subtitle
+    subtitle: ogni uomo è un mio fratello in Dio nostro Padre
     items:
       - type: Card
         title: Il Futuro
