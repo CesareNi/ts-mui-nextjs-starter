@@ -33,14 +33,6 @@ sections:
     subtitle: Section subtitle here
     items:
       - type: Card
-        title: ''
-        image:
-          type: Image
-          url: /images/nextjs.svg
-          altText: First item image
-        text: ''
-        actions: []
-      - type: Card
         title: Second Card Title
         image:
           type: Image
