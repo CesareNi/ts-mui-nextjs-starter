@@ -75,13 +75,7 @@ sections:
       origine finita, ma che in proiezione diverrà anche potenzialmente
       perfetta, quando i nostri atti passati confluiranno nel nostro futuro più
       prevedibile e vivendo effettivamente l'eterno presente.
-    actions:
-      - type: Button
-        label: Read the Docs
-        url: 'https://docs.netlify.com/visual-editor/overview/'
-        size: large
-        variant: outlined
-        color: primary
+    actions: []
     image:
       type: Image
       altText: Hero section image
