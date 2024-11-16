@@ -23,7 +23,7 @@ sections:
       url: /images/Il tutto.png
       altText: Hero section image
   - type: HeroSection
-    title: This Is A Big Hero Headline
+    title: Annunciate Gesù il vivente
     subtitle: The section subtitle
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
