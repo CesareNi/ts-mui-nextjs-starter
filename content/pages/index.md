@@ -101,12 +101,6 @@ sections:
     text: "Nel parlare ai nostri simili dovremmo tenere un atteggiamento simile a quello che ci disse Gesù: Ecco, io sto alla porta e busso: se uno ode la mia voce e apre la porta, io entrerò da lui e cenerò con lui ed egli con me. (Ap 3:14)\n\nVenite a me, voi tutti, che siete affaticati e oppressi, e io vi ristorerò.\_Prendete il mio giogo sopra di voi e imparate da me, che sono mite e umile di cuore,\_*e troverete ristoro*\_per le vostre anime.\_Il mio giogo infatti è dolce e il mio carico leggero». (Mt 11:28)\n"
     actions:
       - type: Button
-        label: EMAIL
-        url: cirosare@gmail.com
-        size: large
-        variant: contained
-        color: primary
-      - type: Button
         label: WhatsApp
         url: '3755570815'
         size: medium
