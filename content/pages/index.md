@@ -157,10 +157,32 @@ sections:
     items:
       - type: Card
         title: First Item Title
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >
+          (1010.4) 92:5.16 Il futuro di Urantia sarà caratterizzato senza dubbio
+          dall’apparizione d’insegnanti della verità religiosa — la Paternità di
+          Dio e la fraternità di tutte le creature. Ma si deve sperare che gli
+          ardenti e sinceri sforzi di questi futuri profeti saranno diretti meno
+          verso il rafforzamento delle barriere interreligiose e più verso
+          l’accrescimento della fratellanza religiosa dell’adorazione spirituale
+          tra i numerosi seguaci delle differenti teologie intellettuali così
+          caratteristiche di Urantia di Satania.
+
+
+          (1088.3) 99:3.2 Il regno dei cieli non è né un ordine sociale né un
+          ordine economico; esso è una fraternità esclusivamente spirituale
+          d’individui che conoscono Dio. È tuttavia vero che una tale fraternità
+          è in se stessa un nuovo e sorprendente fenomeno sociale accompagnato
+          da stupefacenti ripercussioni politiche ed economiche.
+
+
+          (1732.1) 155:6.8 L’unità umana e la fratellanza dei mortali possono
+          essere realizzate soltanto dal dono superiore della religione dello
+          spirito. Le menti razziali possono differire, ma in tutta l’umanità
+          risiede lo stesso spirito divino ed eterno. La speranza di una
+          fraternità umana può essere realizzata solo quando, e nella misura in
+          cui, le divergenti religioni mentali d’autorità diverranno impregnate
+          e dominate dalla religione unificante e nobilitante dello spirito — la
+          religione dell’esperienza spirituale personale.
         image:
           type: Image
           url: /images/nextjs.svg
