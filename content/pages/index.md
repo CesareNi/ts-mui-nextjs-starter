@@ -166,23 +166,6 @@ sections:
           l’accrescimento della fratellanza religiosa dell’adorazione spirituale
           tra i numerosi seguaci delle differenti teologie intellettuali così
           caratteristiche di Urantia di Satania.
-
-
-          (1088.3) 99:3.2 Il regno dei cieli non è né un ordine sociale né un
-          ordine economico; esso è una fraternità esclusivamente spirituale
-          d’individui che conoscono Dio. È tuttavia vero che una tale fraternità
-          è in se stessa un nuovo e sorprendente fenomeno sociale accompagnato
-          da stupefacenti ripercussioni politiche ed economiche.
-
-
-          (1732.1) 155:6.8 L’unità umana e la fratellanza dei mortali possono
-          essere realizzate soltanto dal dono superiore della religione dello
-          spirito. Le menti razziali possono differire, ma in tutta l’umanità
-          risiede lo stesso spirito divino ed eterno. La speranza di una
-          fraternità umana può essere realizzata solo quando, e nella misura in
-          cui, le divergenti religioni mentali d’autorità diverranno impregnate
-          e dominate dalla religione unificante e nobilitante dello spirito — la
-          religione dell’esperienza spirituale personale.
         image:
           type: Image
           url: /images/Prati e sole.jpg
