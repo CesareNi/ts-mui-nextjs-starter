@@ -20,7 +20,7 @@ sections:
         color: primary
       - type: Button
         label: WhatsApp
-        url: '3755570815'
+        url: ''
         size: medium
         variant: text
         color: primary
