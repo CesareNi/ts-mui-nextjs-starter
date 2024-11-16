@@ -32,8 +32,6 @@ sections:
     title: This Is A Big Hero Headline
     subtitle: The section subtitle
     text: >
-      BENVENUTI/E
-
       Dal 1955, anno in cui venne pubblicata la prima edizione del LIBRO DI
       URANTIA, in lingua inglese, passano più di 50 anni per la pubblicazione
       dell'edizione del Libro in lingua italiana ad opera principalmente di MEMO
@@ -44,7 +42,7 @@ sections:
       di Conferenze a carattere nazionale, internazionale o mondiale. Anche io
       vengo a conoscenza, dopo qualche tempo, di una coordinazione nazionale
       italiana e inizio a partecipare a qualche conferenza di carattere
-      regionale (Rimini, Lago di Garda). 
+      regionale (Rimini, Lago di Garda).
     actions:
       - type: Button
         label: Start Building
