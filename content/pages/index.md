@@ -195,7 +195,7 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: Second Item Title
+        title: Le persone religiose
         text: >
           (1091.8) 99:5.9 Le future persone religiose devono vivere
           esteriormente la loro religione, devono dedicare se stessi al servizio
