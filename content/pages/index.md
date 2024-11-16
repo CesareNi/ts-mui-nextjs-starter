@@ -56,7 +56,7 @@ sections:
         variant: contained
         color: primary
       - type: Button
-        label: WhatsApop
+        label: WhatsApp
         url: '3755570815'
         size: medium
         variant: text
