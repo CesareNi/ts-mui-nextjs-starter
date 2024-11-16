@@ -199,7 +199,7 @@ sections:
             color: primary
       - type: Card
         title: Le persone religiose
-        text: >
+        text: >+
           (1091.8) 99:5.9 Le future persone religiose devono vivere
           esteriormente la loro religione, devono dedicare se stessi al servizio
           generoso della fratellanza dell’uomo. È giunta l’ora che l’uomo abbia
@@ -212,18 +212,6 @@ sections:
           fratellanza degli uomini; egli era un’illustrazione vivente dell’una
           ed una manifestazione profonda dell’altra.
 
-
-          (2053.4) 193:1.2L’accettazione della dottrina della paternità di Dio
-          implica che voi accettiate apertamente anche la verità associata della
-          fratellanza degli uomini. E se un uomo è vostro fratello, egli è
-          ancora più che il vostro prossimo, che il Padre esige voi amiate come
-          voi stessi. Il vostro fratello, essendo della vostra stessa famiglia,
-          non lo amerete soltanto con affetto familiare, ma lo servirete anche
-          come servireste voi stessi. E voi amerete e servirete così vostro
-          fratello perché, essendo miei fratelli, siete stati amati e serviti
-          così da me. Andate, dunque, in tutto il mondo a proclamare questa
-          buona novella a tutte le creature di ogni razza, tribù e nazione. Il
-          mio spirito vi precederà, ed io sarò sempre con voi.”
         image:
           type: Image
           url: /images/mui-5.svg
