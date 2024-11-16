@@ -73,7 +73,7 @@ sections:
       url: /images/Per annunciare.jpg
       altText: Hero section image
   - type: HeroSection
-    title: Lo Spirito Interiore è il collegamento con l'Assoluto
+    title: Lo Spirito Interiore
     subtitle: The section subtitle
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
