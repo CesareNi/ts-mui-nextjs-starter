@@ -35,7 +35,7 @@ sections:
       dell'uomo, soltanto allora tutto è possibile.
     actions:
       - type: Button
-        label: Start Building
+        label: CONTATTI
         url: 'https://docs.netlify.com/visual-editor/get-started/'
         size: large
         variant: contained
