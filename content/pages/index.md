@@ -123,7 +123,7 @@ sections:
       url: /images/Le azioni di Dio.png
       altText: Hero section image
   - type: HeroSection
-    title: This Is A Big Hero Headline
+    title: La Fratellanza Planetaria
     subtitle: >-
       Questo è il logo che più ci rappresenta, perché la Fratellanza è la
       realizzazione massima che prima o poi accade in ogni pianeta, è la
