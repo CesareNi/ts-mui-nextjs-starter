@@ -19,7 +19,7 @@ sections:
         variant: contained
         color: primary
       - type: Button
-        label: WhatsApp
+        label: '3755570815'
         url: ''
         size: medium
         variant: text
