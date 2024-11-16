@@ -97,7 +97,7 @@ sections:
     actions:
       - type: Button
         label: EMAIL
-        url: 'https://docs.netlify.com/visual-editor/get-started/'
+        url: cirosare@gmail.com
         size: large
         variant: contained
         color: primary
