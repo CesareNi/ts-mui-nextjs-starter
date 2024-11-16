@@ -98,11 +98,14 @@ sections:
   - type: HeroSection
     title: 'La volontà di Dio prevale, sempre'
     subtitle: The section subtitle
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      itae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      La volontà di Dio, si realizza sempre perché l'eternità rappresenta la
+      vera realtà attraverso la quale il Padre emana e/o proietta lo
+      spazio/tempo. Anche se singolarmente ciascun individuo è relativamente
+      libero di scegliere la volontà di Dio, tuttavia essa si realizza sempre
+      negli universi perché l'Assoluto ha già oltrepassato la barriera del
+      tempo/spazio ed ha indagato ogni possibile risultato finale e l'ha
+      considerato perfetto.
     actions:
       - type: Button
         label: Start Building
