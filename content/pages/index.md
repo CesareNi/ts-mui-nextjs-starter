@@ -96,7 +96,7 @@ sections:
       considerato perfetto.
     actions:
       - type: Button
-        label: Start Building
+        label: EMAIL
         url: 'https://docs.netlify.com/visual-editor/get-started/'
         size: large
         variant: contained
