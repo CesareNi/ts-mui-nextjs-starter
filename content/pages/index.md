@@ -63,11 +63,30 @@ sections:
   - type: HeroSection
     title: This Is A Big Hero Headline
     subtitle: The section subtitle
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      itae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Nella sostanza il Libro di Urantia, noto anche come V Rivelazione Epocale,
+      è una rivelazione di varie personalità divine che ci descrivono
+      dettagliatamente concetti difficili come ad esempio l'IO SONO, le Deità e
+      il cerchio dell'Eternità, ma anche tutto ciò che è più vicino a noi, come
+      le galassie popolate, la pluralità di esseri preposti alla nostra
+      evoluzione, la vita nei mondi morontiali, l'ascensione fino ai domini
+      dell'Eternità e la vera storia di Michael Gesù, vissuta sul nostro
+      pianeta. Oltre alle notizie in esso contenuto, una buona parte riporta i
+      suggerimenti filosofico/spirituali che fanno di noi un potenziale
+      Finalitario al di la del tempo e dello spazio, perché ci svelano la
+      presenza spirituale prepersonale del Monitore o Spirito frammentato del
+      Padre in noi. L'opportunità di eternarsi attraverso la fusione della
+      nostra anima di natura semispirituale con lo Spirito del Padre frammentato
+      a patto che la nostra vita sia veramente l'espressione della volontà di
+      Dio nostro Padre per noi. Non ci sono atti eroici o gesti che possano in
+      qualche modo farci entrare di diritto nel Regno di Dio, ma c'è soltanto la
+      nostra vita all'impronta della volontà di Dio, mettersi nei panni di
+      nostro Padre e dirigere i nostri passi alla luce della sua bontà, della
+      sua lungimiranza, dalla sua sapienza, della sua perfezione. La nostra sarà
+      una perfezione relativa, come del resto ci si aspetta da creature di
+      origine finita, ma che in proiezione diverrà anche potenzialmente
+      perfetta, quando i nostri atti passati confluiranno nel nostro futuro più
+      prevedibile e vivendo effettivamente l'eterno presente.
     actions:
       - type: Button
         label: Start Building
