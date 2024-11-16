@@ -102,7 +102,7 @@ sections:
         variant: contained
         color: primary
       - type: Button
-        label: Contatto Whatsapp
+        label: Whatsapp
         url: '3755570815'
         size: large
         variant: outlined
