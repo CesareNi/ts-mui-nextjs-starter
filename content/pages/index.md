@@ -39,10 +39,7 @@ sections:
           url: /images/nextjs.svg
           altText: First item image
         text: ''
-        actions:
-          - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+        actions: []
       - type: Card
         title: Second Card Title
         image:
