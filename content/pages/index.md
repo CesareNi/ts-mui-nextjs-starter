@@ -70,7 +70,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/Frutti1.jpg
+      url: /images/Per annunciare.jpg
       altText: Hero section image
   - type: HeroSection
     title: This Is A Big Hero Headline
