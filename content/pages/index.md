@@ -14,7 +14,7 @@ sections:
     actions:
       - type: Button
         label: 'eMail: cirosare'
-        url: cirosare@gmail.com
+        url: ''
         size: large
         variant: contained
         color: primary
