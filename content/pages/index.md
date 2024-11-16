@@ -92,12 +92,6 @@ sections:
       dell'uomo, soltanto allora tutto è possibile.
     actions:
       - type: Button
-        label: EMAIL
-        url: cirosare@gmail.com
-        size: large
-        variant: contained
-        color: primary
-      - type: Button
         label: WhatsApp
         url: '3755570815'
         size: medium
