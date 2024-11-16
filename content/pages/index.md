@@ -111,13 +111,7 @@ sections:
       Lo Spirito Interiore è il collegamento del finito con l'infinito. Abbiamo
       uno Spirito Frammentato del Padre in noi, e se seguiamo le sue direttive
       possiamo essere sicuri di fare la volontà del Padre
-    actions:
-      - type: Button
-        label: WhatsApp
-        url: '3755570815'
-        size: medium
-        variant: text
-        color: primary
+    actions: []
     image:
       type: Image
       url: /images/frutti2.jpg
