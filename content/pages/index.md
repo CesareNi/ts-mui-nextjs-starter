@@ -74,7 +74,7 @@ sections:
       altText: Hero section image
   - type: HeroSection
     title: Lo Spirito Interiore
-    subtitle: The section subtitle
+    subtitle: Collegamento con l'Assoluto
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
