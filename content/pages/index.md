@@ -142,13 +142,7 @@ sections:
       immaginare. Ogni anima che si armonizza pur rimanendo sempre individuale,
       realizza la perfezione planetaria, immagine reale del mondo
       soprannaturale.
-    actions:
-      - type: Button
-        label: WhatsApp
-        url: '3755570815'
-        size: large
-        variant: outlined
-        color: primary
+    actions: []
     image:
       type: Image
       url: /images/logo frate.png
