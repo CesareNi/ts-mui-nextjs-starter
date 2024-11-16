@@ -131,7 +131,13 @@ sections:
       immaginare. Ogni anima che si armonizza pur rimanendo sempre individuale,
       realizza la perfezione planetaria, immagine reale del mondo
       soprannaturale.
-    text: ''
+    text: >
+      Questo è il logo che più ci rappresenta, perché la Fratellanza è la
+      realizzazione massima che prima o poi accade in ogni pianeta, è la
+      realizzazione fisica, mentale e spirituale di tutto ciò che possiamo mai
+      immaginare. Ogni anima che si armonizza pur rimanendo sempre individuale,
+      realizza la perfezione planetaria, immagine reale del mondo
+      soprannaturale.
     actions:
       - type: Button
         label: Start Building
