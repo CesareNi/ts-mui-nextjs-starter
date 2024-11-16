@@ -145,7 +145,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/Aggiustatore2.jpg
+      url: /images/Urantia base3.jpg
       altText: Hero section image
   - type: CardsSection
     title: ''
