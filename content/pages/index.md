@@ -129,12 +129,6 @@ sections:
       considerato perfetto.
     actions:
       - type: Button
-        label: EMAIL
-        url: cirosare@gmail.com
-        size: large
-        variant: contained
-        color: primary
-      - type: Button
         label: Whatsapp
         url: '3755570815'
         size: large
