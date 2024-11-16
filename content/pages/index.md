@@ -156,7 +156,7 @@ sections:
     subtitle: The section subtitle
     items:
       - type: Card
-        title: First Item Title
+        title: Il Futuro
         text: >
           (1010.4) 92:5.16 Il futuro di Urantia sarà caratterizzato senza dubbio
           dall’apparizione d’insegnanti della verità religiosa — la Paternità di
