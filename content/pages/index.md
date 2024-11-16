@@ -3,7 +3,7 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: Lettori del Libro di Urantia
+    title: Accoglienza
     subtitle: Accoglienza dei Lettori Italiani
     text: >+
       <div style="text-align: left">Questo è uno spazio dedicato unicamente ai
