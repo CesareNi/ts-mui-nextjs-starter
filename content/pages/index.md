@@ -145,7 +145,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/Cerchio logo.png
+      url: /images/logo frate.png
       altText: Hero section image
   - type: CardsSection
     title: ''
