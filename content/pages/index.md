@@ -223,12 +223,6 @@ sections:
           mostra l’impulso al servizio sociale, base della fratellanza umana.
           Quando la mente sceglie un giudizio morale retto mediante un atto di
           libero arbitrio, tale decisione costituisce un’esperienza religiosa.
-
-          (1122.4) 102:3.8 La scienza si sforza vanamente di creare la
-          fratellanza della cultura; la religione porta all’esistenza la
-          fratellanza dello spirito. La filosofia si sforza di ottenere la
-          fratellanza della saggezza; la rivelazione descrive la fratellanza
-          eterna, il Corpo della Finalità del Paradiso.
         image:
           type: Image
           url: /images/ts.svg
