@@ -174,32 +174,21 @@ sections:
           è in se stessa un nuovo e sorprendente fenomeno sociale accompagnato
           da stupefacenti ripercussioni politiche ed economiche.
 
-
-          (1732.1) 155:6.8 L’unità umana e la fratellanza dei mortali possono
-          essere realizzate soltanto dal dono superiore della religione dello
-          spirito. Le menti razziali possono differire, ma in tutta l’umanità
-          risiede lo stesso spirito divino ed eterno. La speranza di una
-          fraternità umana può essere realizzata solo quando, e nella misura in
-          cui, le divergenti religioni mentali d’autorità diverranno impregnate
-          e dominate dalla religione unificante e nobilitante dello spirito — la
-          religione dell’esperienza spirituale personale.
-
-
-
         image:
           type: Image
           url: /images/Prati e sole.jpg
           altText: First item image
         actions:
           - type: Button
-            label: Learn more
-            url: /
+            label: Leggi di più
+            url: >-
+              https://www.urantia.org/it/il-libro-di-urantia/fascicolo-155-in-fuga-attraverso-la-galilea-del-nord?term=%22L%E2%80%99unit%C3%A0%20umana%20e%20la%20fratellanza%20dei%20mortali%22#U155_6_8
             size: medium
             variant: text
             color: primary
       - type: Card
         title: Le persone religiose
-        text: >
+        text: >+
           (1091.8) 99:5.9 Le future persone religiose devono vivere
           esteriormente la loro religione, devono dedicare se stessi al servizio
           generoso della fratellanza dell’uomo. È giunta l’ora che l’uomo abbia
@@ -212,21 +201,9 @@ sections:
           fratellanza degli uomini; egli era un’illustrazione vivente dell’una
           ed una manifestazione profonda dell’altra.
 
-
-          (2053.4) 193:1.2L’accettazione della dottrina della paternità di Dio
-          implica che voi accettiate apertamente anche la verità associata della
-          fratellanza degli uomini. E se un uomo è vostro fratello, egli è
-          ancora più che il vostro prossimo, che il Padre esige voi amiate come
-          voi stessi. Il vostro fratello, essendo della vostra stessa famiglia,
-          non lo amerete soltanto con affetto familiare, ma lo servirete anche
-          come servireste voi stessi. E voi amerete e servirete così vostro
-          fratello perché, essendo miei fratelli, siete stati amati e serviti
-          così da me. Andate, dunque, in tutto il mondo a proclamare questa
-          buona novella a tutte le creature di ogni razza, tribù e nazione. Il
-          mio spirito vi precederà, ed io sarò sempre con voi.”
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/Simbolo trinità.png
           altText: Second item image
         actions:
           - type: Button
@@ -246,20 +223,15 @@ sections:
           mostra l’impulso al servizio sociale, base della fratellanza umana.
           Quando la mente sceglie un giudizio morale retto mediante un atto di
           libero arbitrio, tale decisione costituisce un’esperienza religiosa.
-
-          (1122.4) 102:3.8 La scienza si sforza vanamente di creare la
-          fratellanza della cultura; la religione porta all’esistenza la
-          fratellanza dello spirito. La filosofia si sforza di ottenere la
-          fratellanza della saggezza; la rivelazione descrive la fratellanza
-          eterna, il Corpo della Finalità del Paradiso.
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/Base.jpg
           altText: Third item image
         actions:
           - type: Button
-            label: Learn more
-            url: /
+            label: Leggi di più
+            url: >-
+              https://www.urantia.org/it/il-libro-di-urantia/fascicolo-102-i-fondamenti-della-fede-religiosa?term=%22La%20scienza%20si%20sforza%20vanamente%20di%20creare%22#U102_3_8
             size: medium
             variant: text
             color: primary
